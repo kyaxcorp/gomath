@@ -1,3 +1,3 @@
-module github.com/kyaxcorp/gomath
+module github.com/kyaxcorp/gmath
 
 go 1.17
