@@ -1,4 +1,4 @@
-package go_math
+package gomath
 
 import "math"
 
